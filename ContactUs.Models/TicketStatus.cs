@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ContactUs.Models
 {
-    enum TicketStatus
+    public enum TicketStatus
     {
         New,
         Accepted,
